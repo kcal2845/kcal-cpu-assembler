@@ -1,0 +1,24 @@
+Kcal2845 제작 16비트 CPU 어셈블러
+NOP  : 0
+LOAD : 1
+STOR : 10
+CMP  : 11
+JUMP : 100
+CALL : 101
+RET  : 110
+NEG  : 111
+ADD  : 1000
+SUB  : 1001
+MUL  : 1010
+DIV  : 1011
+LOG  : 1100
+SHFL : 1101
+SHFA : 1110
+SHFR : 1111
+x : 00
+I : 01
+L : 10
+SF : 01
+ZF : 00
+C1 : 11
+C0 : 10
